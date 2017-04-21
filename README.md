@@ -8,6 +8,8 @@ Google's program popularized the term (deep) "dreaming" to refer to the generati
 
 # Usage
 
-The dreaming idea can be applied to hidden (internal) neurons other than those in the output, which allows exploration of the roles and representations of various parts of the network. It is also possible to optimize the input to satisfy either a single neuron (this usage is sometimes called Activity Maximization) or an entire layer of neurons.
+1. The dreaming idea can be applied to hidden (internal) neurons other than those in the output, which allows exploration of the roles and representations of various parts of the network.
 
-While dreaming is most often used for visualizing networks or producing computer art, it has recently been proposed that adding "dreamed" inputs to the training set can improve training times.
+2. It is also possible to optimize the input to satisfy either a single neuron (this usage is sometimes called Activity Maximization) or an entire layer of neurons.
+
+3. While dreaming is most often used for visualizing networks or producing computer art, it has recently been proposed that adding "dreamed" inputs to the training set can improve training times.
