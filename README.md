@@ -13,3 +13,15 @@ Google's program popularized the term (deep) "dreaming" to refer to the generati
 2. It is also possible to optimize the input to satisfy either a single neuron (this usage is sometimes called Activity Maximization) or an entire layer of neurons.
 
 3. While dreaming is most often used for visualizing networks or producing computer art, it has recently been proposed that adding "dreamed" inputs to the training set can improve training times.
+
+
+#Requirements
+
+This code is written in python and using tensorflow backend.Requirements are as follows:
+
+1. Keras: Deep Learning library for Theano and TensorFlow.
+
+Keras is a high-level neural networks API, written in Python and capable of running on top of either TensorFlow or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.
+
+2. SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering. In particular, these are some of the core packages: Numpy,Matplotlib,pandas etc.
+
