@@ -15,7 +15,7 @@ Google's program popularized the term (deep) "dreaming" to refer to the generati
 3. While dreaming is most often used for visualizing networks or producing computer art, it has recently been proposed that adding "dreamed" inputs to the training set can improve training times.
 
 
-#Requirements
+# Requirements
 
 This code is written in python and using tensorflow backend.Requirements are as follows:
 
