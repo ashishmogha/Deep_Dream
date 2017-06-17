@@ -4,6 +4,9 @@ DeepDream is a computer vision program created by Google which uses a convolutio
 
 Google's program popularized the term (deep) "dreaming" to refer to the generation of images that produce desired activations in a trained deep network, and the term now refers to a collection of related approaches.
 
+![screenshot capture - 2017-06-18 - 02-40-50](https://user-images.githubusercontent.com/17912055/27256354-9565f954-53cf-11e7-8417-4f3680250e87.png)
+
+
 
 
 # Usage
