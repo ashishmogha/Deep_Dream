@@ -15,7 +15,7 @@ Google's program popularized the term (deep) **dreaming** to refer to the genera
 
 * It is also possible to optimize the input to satisfy either a single neuron (this usage is sometimes called Activity Maximization) or an entire layer of neurons.
 
-*  While **dreaming** is most often used for visualizing networks or producing computer art, it has recently been proposed that adding "dreamed" inputs to the training set can improve training times.
+*  While **dreaming** is most often used for visualizing networks or producing computer art, it has recently been proposed that adding "dreamed" inputs to the training set can improve training times
 
 
 # Requirements
